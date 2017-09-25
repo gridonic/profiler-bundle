@@ -1,0 +1,3 @@
+gridonic_profiler_homepage:
+    path:     /
+    defaults: { _controller: GridonicProfilerBundle:Default:index }
